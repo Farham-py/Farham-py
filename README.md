@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Farham%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%26%20PCB%20Design&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Farham-py">
-    <img src="https://komarev.com/ghpvc/?username=Farham-py&label=Profile%20views&color=00FFFF&style=flat-square" alt="Farham-py's profile views" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Farham%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electrical%20Engineering%20Student%20&descSize=18&descAlignY=55&textBg=false"/>
 
 ---
 
@@ -60,29 +54,3 @@ Custom PCB design built around the STM32 Blue Pill, focused on clean schematic d
 
 **[Power-Regulated PCB Projects](https://github.com/Farham-py/PCB-Design-Portfolio)**
 A set of PCB designs including AMS1117-3.3 linear voltage regulation and MT3608 boost conversion, demonstrating practical power delivery design for embedded hardware.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farham-py&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farham-py&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farham-py&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 📫 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/farham-p-00057438b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Farhampouryousefi31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
