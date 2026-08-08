@@ -6,9 +6,4 @@
 ![](https://streak-stats.demolab.com/?user=Farham-py&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Farham-py&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Farham-py&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Farham-py&icon=5&color=1)](https://visitcount.itsvg.in)
 
