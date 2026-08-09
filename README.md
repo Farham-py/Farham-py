@@ -42,15 +42,3 @@ I'm an Electrical Engineering student focused on embedded systems and PCB design
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-**[Aira – Health Monitoring Smart Watch](https://github.com/Farham-py/Aira-HealthMonitoringSmartWatch)**
-A wearable health monitoring device built on the XIAO ESP32S3, integrating heart rate/SpO2, motion, and temperature sensors with BLE-based data communication. Combines custom PCB design with embedded firmware development.
-
-**[STM32 Blue Pill PCB Design](https://github.com/Farham-py/PCB-Design-Portfolio/tree/main/Stm32-BluePill)**
-Custom PCB design built around the STM32 Blue Pill, focused on clean schematic design and layout practices using Altium Designer.
-
-**[Power-Regulated PCB Projects](https://github.com/Farham-py/PCB-Design-Portfolio)**
-A set of PCB designs including AMS1117-3.3 linear voltage regulation and MT3608 boost conversion, demonstrating practical power delivery design for embedded hardware.
